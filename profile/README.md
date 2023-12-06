@@ -49,6 +49,12 @@
 
 ![image](https://github.com/MZBR-2023/.github/assets/81070080/6044a9e8-a9e8-4edf-ab81-ae1f0d2868b7)
 
+## 🤳 시연영상
+<div align="center">
+   <a href="https://youtu.be/7CbTL1GAmvE" target="_blank">
+     <img src="http://img.youtube.com/vi/7CbTL1GAmvE/0.jpg"></img>
+   </a>
+</div>
 
 ## 👩🏻‍💻 Developers
 <div align="center"> 
